@@ -1,0 +1,51 @@
+.navabar{
+    height: 100rem;
+    background-color: rebeccapurple;
+}
+.fa-compass{
+    color:red;
+    font-size: 2rem;
+}
+
+.f-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background-color: #f8f9fa;
+        border-top: 1px solid #e9ecef;
+    }
+
+.f-info-social i {
+        margin-right: 10px;
+        font-size: 20px;
+    }
+
+.f-info-links a {
+        margin-right: 15px;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+.f-info-links a:hover {
+        text-decoration: underline;
+    }
+.nav-link{
+        color: #222222 !important;
+    }
+.card{
+    border: none !important;
+    margin-bottom: 2rem;
+}
+.card-img-top{
+    border-radius: 1rem !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+.card-body{
+    padding: 0 !important;
+
+}
+.card-text p{
+    font-weight: 400 !important;
+}
